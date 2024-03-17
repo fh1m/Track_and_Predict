@@ -1,4 +1,4 @@
-![Screenshot from 2024-03-18 02-29-17](https://github.com/fh1m/Track_and_Predict/assets/132839265/f581018e-106d-4ac9-bc31-7ec01570b383)# Track and Predict Using [YOLOv7](https://github.com/WongKinYiu/yolov7) The Fastest Object Detection Algorithm 
+# Track and Predict Using [YOLOv7](https://github.com/WongKinYiu/yolov7) The Fastest Object Detection Algorithm 
 ### only works for Bottles, hehe
 
 This project leverages a powerful object detection system using YOLOv7 integrated with OpenCV to track a bottle in real-time via a webcam feed. 
