@@ -1,3 +1,4 @@
+[Screencast from 2024-03-18 02-32-32.webm](https://github.com/fh1m/Track_and_Predict/assets/132839265/8f960dcc-30e6-4f00-9760-e5c9704521ee)
 # Track and Predict Using [YOLOv7](https://github.com/WongKinYiu/yolov7) The Fastest Object Detection Algorithm 
 ### only works for Bottles, hehe
 
@@ -27,6 +28,7 @@ To run the bottle tracking system, execute the main.py script:
 ```console
 foo@bar:~$ python -m venv env
 foo@bar:~$ pip install -r requirements.txt
+foo@bar:~$ source env/bin/activate
 foo@bar:~$ python main.py
 ```
 
@@ -36,13 +38,15 @@ Direction and speed information and prediction will be shown in the bottom and t
 
 # Time for some Real stuff
 ## Working Examples
------
 
 ![Screenshot from 2024-03-18 02-29-17](https://github.com/fh1m/Track_and_Predict/assets/132839265/6ec7aecc-7cba-46af-ab26-6cab3e76efbf)
 
-![Screenshot from 2024-03-18 02-29-22](https://github.com/fh1m/Track_and_Predict/assets/132839265/ae6511e5-cec2-4b00-ae86-eff02179b1db)
+![Screenshot from 2024-03-18 02-29-28](https://github.com/fh1m/Track_and_Predict/assets/132839265/5463cf25-e159-4da0-b799-94283fc6ebd7)
+
+### Tested in Different lighting conditions
 
 ![Screenshot from 2024-03-18 02-29-46](https://github.com/fh1m/Track_and_Predict/assets/132839265/196f610c-3e4b-4dfd-9616-1a38734a9de2)
 
-![Screenshot from 2024-03-18 02-30-11](https://github.com/fh1m/Track_and_Predict/assets/132839265/c5afad37-7b7e-4fcb-992c-cc08804ef706)
+![Screenshot from 2024-03-18 02-29-56](https://github.com/fh1m/Track_and_Predict/assets/132839265/ddf972e9-ced6-495d-99d1-3f51432b6db9)
+
 
