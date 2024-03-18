@@ -2,7 +2,7 @@
 
 * get live data feed from webcam [x]
 * select pretrained detection model(YOLOv7) & understand why that model works [x]
-    1. implement my own custom ML model from sratch []
+    1. implement my own custom ML model from sratch [ ]
 * Run the detection model(YOLOv7) on each frame captured from the webcam to identify the bottle's position. [x]
 * Establish a reference point or area in frame. [x]
 * Tracking Movement of the bottle [x]
